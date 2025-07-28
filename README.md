@@ -35,12 +35,18 @@ I'm using this as a **learning log**, and I hope it helps others just starting o
 
 ## 🛠️ Projects Built (So Far)
 
-| Project Name              | Description                            |
-|---------------------------|----------------------------------------|
-| Calculator CLI            | Simple calculator using Python input/output |
-| Number Guessing Game      | Guess the number with random module   |
-| To-Do List (Text-based)   | Task manager with file saving         |
-| Password Generator        | Random strong password generator      |
+[//]: # ()
+[//]: # (| Project Name              | Description                            |)
+
+[//]: # (|---------------------------|----------------------------------------|)
+
+[//]: # (| Calculator CLI            | Simple calculator using Python input/output |)
+
+[//]: # (| Number Guessing Game      | Guess the number with random module   |)
+
+[//]: # (| To-Do List &#40;Text-based&#41;   | Task manager with file saving         |)
+
+[//]: # (| Password Generator        | Random strong password generator      |)
 
 *(More projects coming as I learn!)*
 
