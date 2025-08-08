@@ -21,14 +21,15 @@ I'm using this as a **learning log**, and I hope it helps others just starting o
 ## 🧠 Topics Covered
 
 - Basics: Variables, Data Types, Operators  
-- Control Flow: if/else, loops  
-- Functions and Recursion  
-- Lists, Tuples, Sets, Dictionaries  
-- File Handling  
-- Error Handling (try/except)  
+- Control Flow: if/else , match
+- Functions and Loops
+- Exceptions
+- Libraries
+- Unit Tests
+- File Handling
+- Regular Expressions
 - Object-Oriented Programming (OOP)  
-- Modules and Packages  
-- Working with APIs  
+- Working with APIs (in future) 
 - And more as I progress...
 
 ---
